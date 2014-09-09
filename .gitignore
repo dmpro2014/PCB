@@ -1,0 +1,13 @@
+## Altium
+History
+__Previews
+*.PrjPCBStructure
+Project Outputs for *
+Project Logs for *
+
+## Mac stuff
+.DS_Store
+
+## Vim
+*~
+*.sw*

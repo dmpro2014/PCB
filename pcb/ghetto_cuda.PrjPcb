@@ -207,7 +207,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VVJVIVJW
 
 [Document11]
-DocumentPath=MCU.Harness
+DocumentPath=MCU_IO.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -224,7 +224,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=MCU_IO.Harness
+DocumentPath=MCU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

@@ -261,6 +261,7 @@ DocumentUniqueId=
 
 [Document13]
 DocumentPath=USB.SchDoc
+DocumentPath=Power_supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -291,9 +292,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ISALDWMN
 
-[Document13]
+[Document15]
 DocumentPath=MCU_oscilliation.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -310,7 +311,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBREJPNY
 
-[Document14]
+[Document16]
 DocumentPath=MCU_oscilliation.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -327,7 +328,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document17]
 DocumentPath=oscilliator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1

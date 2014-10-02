@@ -1,0 +1,14 @@
+Component   : SOT95P275X140-5N
+PCB Library : ESD-protection.PcbLib
+Date        : 29.09.2014
+Time        : 18:18:20
+
+
+
+Dimension : 4.267 x 3.937 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          4        0       1        0
+--------------------------------------------------------------------
+ Total                       0          4        0       1        0

@@ -37,6 +37,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=libs\sram\sram-component.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XOOAQHFF
+
+[Document2]
+DocumentPath=libs\sram\sram-footprint.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JOVBMANW
+
+[Document3]
 DocumentPath=libs\pcb-library\ESD-protection.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -53,7 +87,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YXCUPFMC
 
-[Document2]
+[Document4]
 DocumentPath=FPGA_IO_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -70,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YTQKFIWY
 
-[Document3]
+[Document5]
 DocumentPath=FPGA_IO_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XDSOYUYI
 
-[Document4]
+[Document6]
 DocumentPath=FPGA_IO_3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,7 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NEVIKRBS
 
-[Document5]
+[Document7]
 DocumentPath=FPGA_IO_4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,7 +155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XDJQQUPJ
 
-[Document6]
+[Document8]
 DocumentPath=FPGA_CLK_SUSPEND.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IONFACTJ
 
-[Document7]
+[Document9]
 DocumentPath=FPGA_VCC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IQTQTHFP
 
-[Document8]
+[Document10]
 DocumentPath=FPGA_GND.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACMKJSOR
 
-[Document9]
+[Document11]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WENIDJEU
 
-[Document10]
+[Document12]
 DocumentPath=MCU_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DEJSFYHD
 
-[Document11]
+[Document13]
 DocumentPath=MCU_IO.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document14]
 DocumentPath=MCU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document15]
 DocumentPath=MCU_oscilliation.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBREJPNY
 
-[Document14]
+[Document16]
 DocumentPath=MCU_oscilliation.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document17]
 DocumentPath=oscilliator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,7 +325,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QPSUIEPD
 
-[Document16]
+[Document18]
 DocumentPath=Power_supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -308,7 +342,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUSNLTTA
 
-[Document17]
+[Document19]
 DocumentPath=USB_power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -325,7 +359,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document20]
 DocumentPath=USB.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -342,7 +376,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document21]
 DocumentPath=USB_data.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -359,7 +393,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IGLYMJLE
 
-[Document20]
+[Document22]
 DocumentPath=USB_data.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -376,7 +410,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document23]
 DocumentPath=USB_power.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -393,8 +427,42 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document24]
 DocumentPath=Power_supply.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document25]
+DocumentPath=SRAM.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VVJVIVJW
+
+[Document26]
+DocumentPath=SRAM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

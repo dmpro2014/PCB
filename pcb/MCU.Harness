@@ -1,4 +1,5 @@
-EBI=A[0..25],AD[0..15],CS0,CS1,WE,RE
+EBI=A[0..27],AD[0..15],CS0,CS1,WE,RE
+GPIO=GPIO[0..25]
 usb_dm=P
 usb_dp=P
 VDD=P

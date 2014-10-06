@@ -1,3 +1,9 @@
+EBI=A[27..00],AD[15..00],CS0,CS1,WE,RE
+GPIO=GPIO[21..00]
+PB13=P
+PB14=P
+PB7=P
+PB8=P
 usb_dm=P
 usb_dp=P
 VDD=P

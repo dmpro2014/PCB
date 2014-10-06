@@ -1,3 +1,4 @@
+EBI=A[0..25],AD[0..15],CS0,CS1,WE,RE
 usb_dm=P
 usb_dp=P
 VDD=P

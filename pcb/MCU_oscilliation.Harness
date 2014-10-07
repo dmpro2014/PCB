@@ -1,3 +1,4 @@
+CLK={FPGA-CLK:FPGA-CLK}
 CLK_signal=P
 PB7=P
 PB8=P

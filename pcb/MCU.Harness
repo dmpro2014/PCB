@@ -4,11 +4,7 @@ PB13=P
 PB14=P
 PB7=P
 PB8=P
-<<<<<<< HEAD
 SPI=BACKUP_TX,BACKUP_RX,BACKUP_CLK,BACKUP_CS
-=======
-SPI=SPI.RX,SPI.TX,SPI.CLK,SPI.CS
->>>>>>> master
 usb_dm=P
 usb_dp=P
 VDD=P

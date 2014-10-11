@@ -4,6 +4,7 @@ PB13=P
 PB14=P
 PB7=P
 PB8=P
+SPI=SPI.RX,SPI.TX,SPI.CLK,SPI.CS
 usb_dm=P
 usb_dp=P
 VDD=P

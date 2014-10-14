@@ -326,6 +326,23 @@ GenerateClassCluster=0
 DocumentUniqueId=XUSNLTTA
 
 [Document18]
+DocumentPath=libs\button.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RBRGQASX
+
+[Document19]
 DocumentPath=oscilliator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -340,9 +357,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IDCBFQMN
+DocumentUniqueId=QPSUIEPD
 
-[Document19]
+[Document20]
 DocumentPath=Power_supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -359,7 +376,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUSNLTTA
 
-[Document20]
+[Document21]
 DocumentPath=USB_power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -376,7 +393,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IDCBFQMN
 
-[Document21]
+[Document22]
 DocumentPath=USB.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -393,7 +410,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document23]
 DocumentPath=USB_data.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -410,7 +427,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IGLYMJLE
 
-[Document23]
+[Document24]
 DocumentPath=USB_data.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -427,7 +444,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document25]
 DocumentPath=HDMI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -444,7 +461,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JGTBGMGT
 
-[Document25]
+[Document26]
 DocumentPath=HDMI.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -461,7 +478,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document27]
 DocumentPath=libs\schematic library\HDMI.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -478,7 +495,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DCJRMFOS
 
-[Document27]
+[Document28]
 DocumentPath=FPGA_IO_1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -495,7 +512,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document29]
 DocumentPath=Top_level.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -512,7 +529,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CADHVIIK
 
-[Document29]
+[Document30]
+DocumentPath=FPGAOsci.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SOKUFOFD
+
+[Document31]
 DocumentPath=high-freq.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -529,7 +563,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LRTAUUNF
 
-[Document30]
+[Document32]
 DocumentPath=FPGA_IO_2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -546,7 +580,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document33]
 DocumentPath=FPGA_IO_4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -563,7 +597,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document34]
 DocumentPath=VGA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -580,7 +614,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FPJUNDMR
 
-[Document33]
+[Document35]
 DocumentPath=VGA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -597,7 +631,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document36]
 DocumentPath=Power_supply.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -614,7 +648,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document37]
 DocumentPath=USB_power.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -631,7 +665,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EYOKMWVV
 
-[Document36]
+[Document38]
 DocumentPath=SRAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -648,7 +682,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VVJVIVJW
 
-[Document37]
+[Document39]
 DocumentPath=SRAM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -665,7 +699,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document40]
 DocumentPath=Serial.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -682,7 +716,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVRMJGRT
 
-[Document39]
+[Document41]
 DocumentPath=FPGA_CLK_SUSPEND.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -699,7 +733,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document42]
 DocumentPath=FPGA_IO_3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -716,24 +750,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
-DocumentPath=libs\button.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document42]
+[Document43]
 DocumentPath=libs\button.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -750,7 +767,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document44]
 DocumentPath=Serial.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -767,7 +784,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document45]
 DocumentPath=Status_LEDS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -784,7 +801,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RNRFFONB
 
-[Document45]
+[Document46]
 DocumentPath=Status_LEDS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1

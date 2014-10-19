@@ -1,1 +1,1 @@
-HDMI=D0+,D0-,D1+,D1-,D2+,D2-,CLK+,CLK-
+HDMI=CLK-,CLK+,D2-,D2+,D1-,D1+,D0-,D0+

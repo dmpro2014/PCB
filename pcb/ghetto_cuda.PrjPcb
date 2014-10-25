@@ -700,7 +700,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document40]
-DocumentPath=PCB-15_19.PcbDoc
+DocumentPath=PCB-15_19_prototyp.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -717,6 +717,40 @@ GenerateClassCluster=0
 DocumentUniqueId=GLXXPSHY
 
 [Document41]
+DocumentPath=PCB-15_19_v2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GLXXPSHY
+
+[Document42]
+DocumentPath=PCB-15_19_prototyp1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GLXXPSHY
+
+[Document43]
 DocumentPath=Serial.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -733,7 +767,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVRMJGRT
 
-[Document42]
+[Document44]
 DocumentPath=FPGA_CLK_SUSPEND.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -750,7 +784,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document45]
 DocumentPath=FPGA_IO_3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -767,7 +801,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document46]
 DocumentPath=libs\button.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -784,7 +818,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ATSEOXBE
 
-[Document45]
+[Document47]
 DocumentPath=Serial.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -801,7 +835,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document48]
 DocumentPath=Status_LEDS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -818,7 +852,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RNRFFONB
 
-[Document47]
+[Document49]
 DocumentPath=Status_LEDS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -837,6 +871,22 @@ DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ghetto_cuda\Design Rule Check - PCB-15_19.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for ghetto_cuda\Design Rule Check - PCB-15_19_prototyp1.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for ghetto_cuda\Design Rule Check - PCB-15_19_prototyp.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for ghetto_cuda\Design Rule Check - PCB-15_19_v2.html
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=MessageListReport.html
 DItemRevisionGUID=
 
 [Configuration1]

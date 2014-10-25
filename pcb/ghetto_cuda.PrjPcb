@@ -886,6 +886,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBEMCTOK
 
+[Document51]
+DocumentPath=version_control_for_pcb_routing2.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YKJXKVKI
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ghetto_cuda\Design Rule Check - PCB-15_19.html
 DItemRevisionGUID=

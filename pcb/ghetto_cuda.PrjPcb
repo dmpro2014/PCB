@@ -173,23 +173,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XDJQQUPJ
 
 [Document9]
-DocumentPath=FPGA_CLK_SUSPEND.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IONFACTJ
-
-[Document10]
 DocumentPath=FPGA_VCC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IQTQTHFP
 
-[Document11]
+[Document10]
 DocumentPath=FPGA_GND.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACMKJSOR
 
-[Document12]
+[Document11]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WENIDJEU
 
-[Document13]
+[Document12]
 DocumentPath=MCU_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DEJSFYHD
 
-[Document14]
+[Document13]
 DocumentPath=MCU_IO.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DEJSFYHD
 
-[Document15]
+[Document14]
 DocumentPath=MCU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -291,7 +274,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBREJPNY
 
-[Document16]
+[Document15]
 DocumentPath=MCU_oscilliation.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -308,7 +291,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBREJPNY
 
-[Document17]
+[Document16]
 DocumentPath=MCU_oscilliation.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -325,7 +308,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUSNLTTA
 
-[Document18]
+[Document17]
 DocumentPath=libs\button.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -342,7 +325,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RBRGQASX
 
-[Document19]
+[Document18]
 DocumentPath=oscilliator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -359,7 +342,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QPSUIEPD
 
-[Document20]
+[Document19]
 DocumentPath=Power_supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -376,7 +359,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XUSNLTTA
 
-[Document21]
+[Document20]
 DocumentPath=USB_power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -393,7 +376,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IDCBFQMN
 
-[Document22]
+[Document21]
 DocumentPath=USB.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -410,7 +393,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document22]
 DocumentPath=USB_data.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -427,7 +410,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IGLYMJLE
 
-[Document24]
+[Document23]
 DocumentPath=USB_data.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -444,7 +427,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document24]
 DocumentPath=HDMI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -461,7 +444,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JGTBGMGT
 
-[Document26]
+[Document25]
 DocumentPath=HDMI.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -478,7 +461,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document26]
 DocumentPath=libs\schematic library\HDMI.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -495,7 +478,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DCJRMFOS
 
-[Document28]
+[Document27]
 DocumentPath=FPGA_IO_1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -512,7 +495,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document28]
 DocumentPath=Top_level.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -529,7 +512,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CADHVIIK
 
-[Document30]
+[Document29]
 DocumentPath=FPGAOsci.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -546,7 +529,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SOKUFOFD
 
-[Document31]
+[Document30]
 DocumentPath=high-freq.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -563,7 +546,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LRTAUUNF
 
-[Document32]
+[Document31]
 DocumentPath=FPGA_IO_2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -580,7 +563,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document32]
 DocumentPath=FPGA_IO_4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -597,7 +580,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document33]
 DocumentPath=VGA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -614,7 +597,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FPJUNDMR
 
-[Document35]
+[Document34]
 DocumentPath=VGA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -631,7 +614,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document35]
 DocumentPath=Power_supply.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -648,7 +631,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document36]
 DocumentPath=USB_power.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -665,7 +648,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EYOKMWVV
 
-[Document38]
+[Document37]
 DocumentPath=SRAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -681,6 +664,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VVJVIVJW
+
+[Document38]
+DocumentPath=FPGA_CLK_SUSPEND.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IONFACTJ
 
 [Document39]
 DocumentPath=SRAM.Harness
@@ -768,23 +768,6 @@ GenerateClassCluster=0
 DocumentUniqueId=BVRMJGRT
 
 [Document44]
-DocumentPath=FPGA_CLK_SUSPEND.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document45]
 DocumentPath=FPGA_IO_3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -801,7 +784,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document45]
 DocumentPath=libs\button.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -818,7 +801,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ATSEOXBE
 
-[Document47]
+[Document46]
 DocumentPath=Serial.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -835,7 +818,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document47]
 DocumentPath=Status_LEDS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -852,7 +835,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RNRFFONB
 
-[Document49]
+[Document48]
 DocumentPath=Status_LEDS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -869,8 +852,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
-DocumentPath=version_control_for_pcb_routing.SchDoc
+[Document49]
+DocumentPath=FPGA_CLK_SUSPEND.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -884,24 +867,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WBEMCTOK
-
-[Document51]
-DocumentPath=version_control_for_pcb_routing2.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YKJXKVKI
+DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ghetto_cuda\Design Rule Check - PCB-15_19.html

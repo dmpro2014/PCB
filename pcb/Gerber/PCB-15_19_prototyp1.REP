@@ -1,0 +1,532 @@
+*************************************************************
+FileName = PCB-15_19_prototyp1.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : PCB-15_19_prototyp1.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : VCC3V3
+      File : PCB-15_19_prototyp1.GP1
+
+    Adding Layer      : VCC3V3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : PCB-15_19_prototyp1.G1
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D42
+    D44
+    D45
+    D47
+    D48
+    D49
+    D53
+    D54
+    D56
+    D59
+*************************************************************
+
+*************************************************************
+Generating : layer 3
+      File : PCB-15_19_prototyp1.G2
+
+    Adding Layer      : layer 3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D42
+    D48
+    D49
+    D53
+    D54
+    D56
+*************************************************************
+
+*************************************************************
+Generating : layer 4
+      File : PCB-15_19_prototyp1.G3
+
+    Adding Layer      : layer 4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D42
+    D48
+    D49
+    D56
+*************************************************************
+
+*************************************************************
+Generating : layer 5
+      File : PCB-15_19_prototyp1.G4
+
+    Adding Layer      : layer 5
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D42
+    D48
+    D49
+    D52
+    D53
+    D54
+    D56
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : PCB-15_19_prototyp1.GP2
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D60
+    D61
+    D62
+    D64
+    D65
+    D66
+    D67
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB-15_19_prototyp1.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D26
+    D41
+    D42
+    D44
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PCB-15_19_prototyp1.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D26
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : PCB-15_19_prototyp1.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB-15_19_prototyp1.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D41
+    D42
+    D43
+    D46
+    D70
+    D71
+    D72
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PCB-15_19_prototyp1.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PCB-15_19_prototyp1.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB-15_19_prototyp1.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D82
+    D91
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PCB-15_19_prototyp1.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB-15_19_prototyp1.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D41
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PCB-15_19_prototyp1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D118
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PCB-15_19_prototyp1.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : PCB-15_19_prototyp1.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : PCB-15_19_prototyp1.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D42
+    D119
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PCB-15_19_prototyp1.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D120
+    D121
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PCB-15_19_prototyp1.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D120
+*************************************************************
+
